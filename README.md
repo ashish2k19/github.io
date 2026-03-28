@@ -2,3 +2,6 @@
 privacy policy
 test commit before commit setting
 test commit after commit setting to pick pr title
+test
+test2
+test 3
